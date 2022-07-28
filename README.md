@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inevitableyellow
-- 👀 I’m interested in ... UX design and possibly video game development
+- 👀 I’m interested in ... UX design and possibly game dev
 - 🌱 I’m currently learning ... HTML & CSS
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... 
