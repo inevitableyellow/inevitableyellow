@@ -1,4 +1,4 @@
-EECS183:pmheard
+
 - 👋 Hi, I’m @inevitableyellow
 - 👀 I’m interested in ... UX design and possibly game dev
 - 🌱 I’m currently learning ... HTML, CSS, Java, C++
