@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @inevitableyellow
-- 👀 I’m interested in ... UX design and possibly game dev
-- 🌱 I’m currently learning ... HTML, CSS, Java, C++
+- 👀 I’m interested in ... IOS UI & Fullstack
+- 🌱 I’m currently learning ... HTML, CSS, Java, C++, SwiftUI
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... 
 
