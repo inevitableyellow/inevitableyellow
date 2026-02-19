@@ -1,16 +1,3 @@
-👋 Hello, I’m Paris (@inevitableyellow)! I'm a graduate student at the University of Michigan School of Information studying all things data science! I'm concerned about implicit bias in code and committed to approaching technological solutions and insights from an ethical standpoint. <br> <br>
-
-👀 I’m interested in ... data science and machine learning! <br> <br>
-
-🌱 I’m currently learning ... Python, R, CLI <br> <br>
-
-💞️ I’m looking to collaborate on ... ML projects! <br> <br>
-
-📫 How to reach me ... pmheard@umich.edu <br> <br> 
-
-
-
-
 <!--    IN PROGRESS 
 ```python 
 paris@heard
