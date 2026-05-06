@@ -1,11 +1,11 @@
 # hi, i'm paris (like the city in france) 👋
 
-**MS Information (Data Science & Machine Learning) · University of Michigan School of Information, 2026**  
+**ms information (data science & machine learning) · university of michigan school of information, 2026**  
 first-gen grad. equity-focused data scientist. perpetual learner. cat mom. 🐈
 
 ---
 
-## what I care about
+## what i care about
 
 i came to data science through political science and digital studies, which means i've always been interested in *who* technology affects, in close conjunction with *how* it functions. my work sits at the intersection of machine learning, algorithmic justice, and systems/solutions that actually serve people.
 
@@ -61,7 +61,7 @@ also: my fat orange cat, finn, who supervises all my work.
 
 i'm interested in roles at the intersection of **machine learning**, **data science**, and **algorithmic accountability**, particularly at organizations doing meaningful work in government, research, or enterprise.
 
-📍 Ann Arbor, MI (open to relocation — preferably somewhere with mountains!)  
+📍 ann arbor, mi (open to relocatio! — preferably somewhere with mountains!)  
 🐙 [@inevitableyellow](https://github.com/inevitableyellow)
 
 ---
