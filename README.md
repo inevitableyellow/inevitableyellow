@@ -1,4 +1,4 @@
-# hi, i'm paris (like the city in france) 👋
+# hi, i'm paris (like the city in france) 🌷
 
 **ms information (data science & machine learning) · university of michigan school of information, 2026**  
 first-gen grad. equity-focused data scientist. perpetual learner. cat mom. 🐈
