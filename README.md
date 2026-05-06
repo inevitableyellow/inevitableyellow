@@ -61,8 +61,9 @@ also: my fat orange cat, finn, who supervises all my work.
 
 i'm interested in roles at the intersection of **machine learning**, **data science**, and **algorithmic accountability**, particularly at organizations doing meaningful work in government, research, or enterprise.
 
-📍 ann arbor, mi (open to relocatio! — preferably somewhere with mountains!)  
+📍 ann arbor, mi (open to relocation! — preferably somewhere with mountains!)  
 🐙 [@inevitableyellow](https://github.com/inevitableyellow)
+💼 [linkedin](https://www.linkedin.com/in/paris-heard/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqMBNacHjSL6nFOfSpgZwLQ%3D%3D)
 
 ---
 
